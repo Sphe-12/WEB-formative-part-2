@@ -9,9 +9,9 @@
 
 * *Name:* Siphesihle Madlala
 * *Student Number:* ST10496779
-* *Course/Module:* Web Development POE – Part 2
+* *Course/Module:* Web Development POE – Part 3
 * *Institution:* IIE Rosebank College
-* *Date:* 26 September 2025
+* *Date:* 19 November 2025
 
 ---
 
@@ -73,4 +73,5 @@ The site was developed using *HTML5, CSS3, and Vanilla JavaScript*, ensuring a c
 * [Unsplash](https://unsplash.com) / [Pexels](https://pexels.com) – Stock photos for electrical services.
 
 ---
+
 
